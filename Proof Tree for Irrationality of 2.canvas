@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"text","text":"Suppose $\\sqrt2=\\frac{a}{b}$\n\n","id":"8716f06aa2ba474b","x":-300,"y":-300,"width":250,"height":60},
+		{"type":"text","text":"$2=\\frac{a^2}{b^2}$","id":"40735fc2c8642609","x":-300,"y":-200,"width":250,"height":60},
+		{"type":"text","text":"$2b^2=a^2$","id":"1696dff6036a1d89","x":-300,"y":-100,"width":250,"height":60},
+		{"type":"text","text":"$a^2$ is even","id":"ef827200dddca72b","x":-300,"y":80,"width":250,"height":60},
+		{"type":"text","text":"$a$ is even","id":"42ec1933773ae983","x":-300,"y":180,"width":250,"height":60},
+		{"type":"text","text":"Contradiction! $\\sqrt2$ is irrational","id":"a0a42c359e845773","x":-132,"y":350,"width":250,"height":60},
+		{"type":"text","text":"a = 2c ","id":"2a24f9325dccfa51","x":118,"y":-270,"width":250,"height":50},
+		{"type":"text","text":"$2b^2=4c^2$","id":"8d5326b08e6cf31a","x":118,"y":-190,"width":250,"height":60},
+		{"type":"text","text":"$b^2=2c^2$","id":"8d68de4f440f11ec","x":118,"y":-100,"width":250,"height":60},
+		{"type":"text","text":"$b^2$ is even","id":"8159ab381ac7f02d","x":118,"y":0,"width":250,"height":60},
+		{"type":"text","text":"$b$ is even","id":"e698cf4f232d217a","x":118,"y":90,"width":250,"height":60},
+		{"type":"text","text":"$a$ and $b$ are relatively prime","id":"0dc6a4ff08ddcc28","x":-520,"y":350,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9cfce77d88cdfa8f","fromNode":"8716f06aa2ba474b","fromSide":"bottom","toNode":"40735fc2c8642609","toSide":"top"},
+		{"id":"1776ac1ce5a6d494","fromNode":"ef827200dddca72b","fromSide":"bottom","toNode":"42ec1933773ae983","toSide":"top"},
+		{"id":"edb958a9e6d7e750","fromNode":"40735fc2c8642609","fromSide":"bottom","toNode":"1696dff6036a1d89","toSide":"top"},
+		{"id":"8f161497b3271d8a","fromNode":"1696dff6036a1d89","fromSide":"bottom","toNode":"ef827200dddca72b","toSide":"top"},
+		{"id":"116b595b800b6bf2","fromNode":"2a24f9325dccfa51","fromSide":"bottom","toNode":"8d5326b08e6cf31a","toSide":"top"},
+		{"id":"66d54f002f3804b0","fromNode":"8d5326b08e6cf31a","fromSide":"bottom","toNode":"8d68de4f440f11ec","toSide":"top"},
+		{"id":"9adf7010e5b1b671","fromNode":"8d68de4f440f11ec","fromSide":"bottom","toNode":"8159ab381ac7f02d","toSide":"top"},
+		{"id":"599477207bce5541","fromNode":"8159ab381ac7f02d","fromSide":"bottom","toNode":"e698cf4f232d217a","toSide":"top"},
+		{"id":"ece83ff5f9873c7d","fromNode":"42ec1933773ae983","fromSide":"bottom","toNode":"a0a42c359e845773","toSide":"top"},
+		{"id":"30f0f70d0ef7f364","fromNode":"e698cf4f232d217a","fromSide":"bottom","toNode":"a0a42c359e845773","toSide":"top"},
+		{"id":"eb9861c9fcacf69c","fromNode":"42ec1933773ae983","fromSide":"right","toNode":"2a24f9325dccfa51","toSide":"left"},
+		{"id":"d9d9374dbc281723","fromNode":"8716f06aa2ba474b","fromSide":"left","toNode":"0dc6a4ff08ddcc28","toSide":"top"},
+		{"id":"bdbd2ff848e98768","fromNode":"0dc6a4ff08ddcc28","fromSide":"right","toNode":"a0a42c359e845773","toSide":"left"}
+	]
+}
