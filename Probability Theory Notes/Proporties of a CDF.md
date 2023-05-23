@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-Let $X$ be a random variable with CDF $F_X$. Then:
+Let $X$ be a random variable with [[Cumulative Distribution Function]] $F_X$. Then:
 1. $F_{X}$ is a nondecreasing function
 2. $0\le F_{X}\le 1 \text{ for all } x\in \mathbb{R}$
 3. Limits as $x\rightarrow-\infty$ and $x\rightarrow \infty$:

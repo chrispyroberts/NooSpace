@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-Let $\mathbb{P}$ be a probability measure on a sample space S. Let $A,B\subseteq S$, then the following hold:
+Let $\mathbb{P}$ be a [[Probability Measure]] on a sample space S. Let $A,B\subseteq S$, then the following hold:
 1. $\mathbb{P}(\emptyset) = 0$
 2. $\mathbb{P}(A^{c})=1-\mathbb{P}(A)$
 3. $A\subseteq B \implies \mathbb{P}(A)\le \mathbb{P}(B)$

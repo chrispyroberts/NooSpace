@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 **[[What is the conclusion of an argument, and what is the remainder of the argument]]**
 	
@@ -13,7 +10,7 @@ dg-publish: true
 -   thus
 -   hence
 -   so
--   consequently
+-   consequentlyp
 -   accordingly
 -   as a result
 -   it follows that
