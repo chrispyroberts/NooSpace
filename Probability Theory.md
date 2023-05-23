@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### What is Probability Theory?
 
 Probability theory is the mathematical language for quantifying uncertainties and making quantitative assertions about random/stochastic events.

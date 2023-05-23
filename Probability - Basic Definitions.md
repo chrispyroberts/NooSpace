@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Random Experiments, Sample Spaces, and Events
 
 **Definition:** [[Random Experiment]]
@@ -25,8 +28,10 @@ Given a sample space $S$, a probability measure or probability distribution is a
 3. (Countable Additivity) For any sequence $A_{1,}A_{2,}... \subseteq S$, which is disjoint, then:$$\mathbb{P}(\bigcup\limits_{i=1}^{\infty} A_{i)}= \sum\limits_{i=1}^{\infty}\mathbb{P}(A_i)$$
 
 **Definition:** [[Finite Additivity]]
-If $\mathbb{P}$ is a probability measure on $S$, then it is finitely additive. That is, for any disjoint events $$A_{1}, ... ,A_{n}$$
-We have: $$\mathbb{P}(\bigcup\limits_{i=1}^{n}A_i)=\sum\limits_{i=1}^{n}\mathbb{P} (A_i)$$
+If $\mathbb{P}$ is a probability measure on $S$, then it is finitely additive. That is, for any disjoint events 
+$$A_{1}, ... ,A_{n}$$
+We have: 
+$$\mathbb{P}(\bigcup\limits_{i=1}^{n}A_i)=\sum\limits_{i=1}^{n}\mathbb{P} (A_i)$$
 
 **Strategy:** [[Turn any Finite Set into an Infinite Set]]
 To turn a finite set of events into an infinite set of events, add on an infinite amount of empty sets onto the end of the finite set.
@@ -37,5 +42,7 @@ Let $\mathbb{P}$ be a probability measure on a sample space S. Let $A,B\subseteq
 2. $\mathbb{P}(A^{c})=1-\mathbb{P}(A)$
 3. $A\subseteq B \implies \mathbb{P}(A)\le \mathbb{P}(B)$
 4. $A\subseteq B \implies \mathbb{P}(B\backslash A) = \mathbb{P}(B)-\mathbb{P}(A)$
-5. Finite Additivity as defined earlier: $$\mathbb{P}(\bigcup\limits_{i=1}^{n}A_i)=\sum\limits_{i=1}^{n}\mathbb{P} (A_i)$$
+5. Finite Additivity as defined earlier: 
+$$\mathbb{P}(\bigcup\limits_{i=1}^{n}A_i)=\sum\limits_{i=1}^{n}\mathbb{P} (A_i)$$
+
 
