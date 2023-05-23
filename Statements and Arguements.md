@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ## Learning Objectives
 1. Explain what a statement is.

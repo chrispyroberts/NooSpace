@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 ### 2.1.2 Random Variables and their Distributions
 

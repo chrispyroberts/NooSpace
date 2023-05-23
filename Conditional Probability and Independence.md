@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### Definitions
 
 **Definition:** [[Conditional Probability]]

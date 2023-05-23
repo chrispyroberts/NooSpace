@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Proof Tree for Russel's Paradox.canvas|Proof Tree for Russel's Paradox]]
 Non-self-membership: $x\notin x$
 

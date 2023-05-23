@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Given two events $A$ and $B$, we say that $A$ and $B$ are independant events if either of the following conditions hold:
 1. $\mathbb{P}(A|B)=\mathbb{P}(A)$
 2. $\mathbb{P}(B|A)=\mathbb{P}(B)$

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 A *set* is an unordered collection of objects.
 $$\{1, 2, 3, 4, 5, 6, 7\} = \{7, 6, 5, 4, 3, 2, 1\}$$
 Another way of expressing this set is the following:

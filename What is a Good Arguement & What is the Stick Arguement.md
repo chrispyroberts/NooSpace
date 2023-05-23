@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 
 There are 4 cases for good arguements:

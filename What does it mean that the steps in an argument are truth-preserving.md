@@ -1,1 +1,4 @@
+---
+dg-publish: true
+---
 The steps in an argument being truth-preserving means that if the premises of an argument are true, then the conclusion must also be true. In other words, the truth of the premises guarantees the truth of the conclusion, given the rules of inference used in the argument.

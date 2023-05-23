@@ -1,1 +1,4 @@
+---
+dg-publish: true
+---
 Whether to go to the bank before or after going to the grocery store, politicians using arguments to convince people to vote for them, and doctors using arguments to determine the course of treatment for a particular patient.

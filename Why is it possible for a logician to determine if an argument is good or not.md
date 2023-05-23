@@ -1,1 +1,4 @@
+---
+dg-publish: true
+---
 It is possible for a logician to determine if an argument is good or not because the form of the argument can be considered separately from its subject. This allows the logician to determine conclusively whether the premises provide support for the conclusion.

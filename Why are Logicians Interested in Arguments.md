@@ -1,1 +1,4 @@
+---
+dg-publish: true
+---
 Logicians are interested in arguments because arguments are the pattern of reasoning that an argument embodies, which can be considered separately from the subject of the argument. This allows the logician to determine conclusively whether the premises provide support for the conclusion, no matter what the argument is about.

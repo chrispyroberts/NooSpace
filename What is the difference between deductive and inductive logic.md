@@ -1,1 +1,4 @@
+---
+dg-publish: true
+---
 Arguments in which the truth of the premises forces the truth of the conclusion are known as valid, and are the focus of deductive logic. Arguments where the truth of the premises makes the truth of the conclusion highly probable but not certain are called inductively strong, and are the focus of inductive logic.

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Let $A, B, C \subseteq S$
 1. $A\cup A^{c}=S$
 2. [[Associativity]]: $(A\cap B)\cap C = A\cap B \cap C$

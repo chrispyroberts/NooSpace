@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **[[What are the two criteria for a good argument]]**
 
 **[[What is the difference between deductive and inductive logic]]**

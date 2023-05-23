@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Given a sample space $S$, a probability measure or probability distribution is a frequency of $\mathbb{P}$, mapping events in $S$ to $\mathbb{R}$ such that it satisfies the following axioms:
 1. $\mathbb{P}(A)\ge 0, \forall A\in S$
 2. $\mathbb{P}(S)=1$

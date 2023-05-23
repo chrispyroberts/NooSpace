@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 | Term | Notation | Intuitive Terminology | Precise Definition |
 | --- | --- | --- | --- |
 | Superset | $A\supseteq B$ | "encompasses" | $A\supseteq B$ means $\forall x \in B, x \in A$

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 The probability of the intersection of two events $A$ and $B$ is given by: 
 
 $\hspace{2cm}\mathbb{P}(A\cap B)=\mathbb{P}(A)\mathbb{P}(B|A)=\mathbb{P}(B)\mathbb{P}(A|B)$

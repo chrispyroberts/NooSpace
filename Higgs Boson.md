@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 The Higgs boson is a subatomic particle that is believed to give mass to fundamental particles such as electrons and quarks. It was predicted by the Standard Model of particle physics and was discovered in 2012 by the Large Hadron Collider (LHC) experiments at CERN. The discovery of the Higgs boson confirmed a major prediction of the Standard Model and provided insight into the origin of mass in the universe.
 

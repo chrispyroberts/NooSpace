@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 The sample space $S$ is the set of all possible outcomes of a random experiment
 - Any element of S is a <u>sample point</u>.
 - Any subset of S is called an <u>event</u>
