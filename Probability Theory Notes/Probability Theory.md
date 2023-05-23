@@ -30,4 +30,4 @@ In 2012, researchers at the LHC accounced that they discovered a new particle co
 1.4 [[Conditional Probability and Independence]]
 1.5 [[Bayes Rule and The Law of Total Probability]]
 2.1 [[Random Variables - Basic Definitions]]
-2.2 [[Discrete Random Variable]]
+2.2 [[Discrete Random Variables]]

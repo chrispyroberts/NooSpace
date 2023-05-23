@@ -23,6 +23,7 @@ There are some common mathematical sets with distinguished notation
 ### Set Operations
 
 **Definition:** [[Set Operations]]
+
 | Term | Notation | Intuitive Terminology | Precise Definition |
 | --- | --- | --- | --- |
 | Superset | $A\supseteq B$ | "encompasses" | $A\supseteq B$ means $\forall x \in B, x \in A$
@@ -66,12 +67,15 @@ Let $A, B \subseteq C$. Using only identities $A=A\cap S$ and $S = B\cup B^c$, a
 1. $A = (A\cap B)\cup (A\cap B^c)$
 	We know $A=A\cap S$ and S = $B\cup B^{c}$, so $A=A\cap(B\cup B^c)$, then by distribuitivity, we can see that $A=(A\cap B) \cup (A\cap B^c)$. 
 
-2. If $B\subseteq A$, then $A=B\cup (A\cap B^c)$
-	Since B is a subset of A, then by definition of $\subseteq$: $$B=B\cap A$$Then substituting into the result from 1:$$\displaylines{A=(A\cap B) \cup (A\cap B^{c}) \\ A = B\cup (A\cap B^c)}$$
-3. Show that $A\cap B$ and $A\cap B^c$ are disjoint.
+3. If $B\subseteq A$, then $A=B\cup (A\cap B^c)$
+	Since B is a subset of A, then by definition of $\subseteq$: 
+	$$B=B\cap A$$Then substituting into the result from 1:
+	$$\displaylines{A=(A\cap B) \cup (A\cap B^{c}) \\ A = B\cup (A\cap B^c)}$$
+	
+4. Show that $A\cap B$ and $A\cap B^c$ are disjoint.
 	By the Distributivity Property, $(A\cap B) \cap (A \cap B^{c}) = A\cap B \cap B^{c}$.
 	Since $B\cap B^{c}=\emptyset$, then $A\cap B \cap B^{c}= A\cap \emptyset = \emptyset$.
 	
-4. Show that $B$ and $A\cap B^c$ are disjoint.
+5. Show that $B$ and $A\cap B^c$ are disjoint.
 	By distributivity property, $B\cap (A\cap B^{c}) = B\cap B^{c}\cap A = \emptyset \cap A = \emptyset$
  

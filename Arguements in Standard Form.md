@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 **[[What is standard form in argumentation]]**
 
 **[[What is the purpose of rewriting an argument in standard form]]**

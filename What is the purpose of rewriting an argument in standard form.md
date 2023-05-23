@@ -1,4 +1,2 @@
----
-dg-publish: true
----
+
 The purpose of rewriting an argument in standard form is to make the distinction between the premise(s) and conclusion of an argument clear, and to make the analysis into premises and conclusion more obvious.

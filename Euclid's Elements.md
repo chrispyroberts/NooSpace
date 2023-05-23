@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 - Euclid's Elements is a mathematical treatise consisting of 13 books 
 - Each book covers a different area of mathematics
 - The first four books focus on plane geometry 

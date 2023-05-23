@@ -1,4 +1,2 @@
----
-dg-publish: true
----
+
 A set of statements is an argument when it consists of a set of premises and a conclusion, with the premises constituting a reason for accepting the truth of the conclusion by virtue of a series of logical steps that lead from those premises to the conclusion.

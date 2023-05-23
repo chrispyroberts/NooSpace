@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 
 **[[What is Logic]]**
 

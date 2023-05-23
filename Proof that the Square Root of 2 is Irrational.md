@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 [[Proof Tree for Irrationality of 2.canvas|Proof Tree for Irrationality of 2]]
 
 Assume for indrect argumentation that $\sqrt 2$ is rational, that is,
