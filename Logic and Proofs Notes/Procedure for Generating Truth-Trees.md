@@ -1,0 +1,5 @@
+1. Start by writing down the formula for which you want to generate a truth-tree.
+2. Based on the syntactic form of the expression, apply the appropriate truth-tree rule, putting a check mark next to the formula to indicate that it has been analyzed.
+3. For each open branch, determine whether the branch contains both any formula φ and its negation ¬φ. If any branch does contain a formula and its negation, mark the branch closed. If all branches in the tree are closed, you are done. Otherwise, continue to the next step.
+4. If the only formulae on open branches that do not have check marks next to them are atomic formulae or negations of atomic formulae, you are done. Otherwise, continue to the next step.
+5. Choose an unchecked formula on an open branch in the truth-tree that is not atomic and not the negation of an atomic formula, and apply this procedure to that formula, starting with step 2.

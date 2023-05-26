@@ -1,0 +1,1 @@
+A branch of truth-tree is completed if no further decomposition rules can be applied on that branch. All closed branches are completed. An open branch is completed if every formula on the branch is either a literal or already decomposed.

@@ -1,0 +1,1 @@
+A branch of truth-tree is open if and only if it is not closed.

@@ -1,0 +1,1 @@
+A truth-value assignment specifies a unique truth-value (either T or F) for each atomic formula.

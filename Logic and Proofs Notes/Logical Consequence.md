@@ -1,0 +1,1 @@
+The conclusion of an argument is a logical consequence of its premises if and only if any truth-value assignment that makes all the premises true also makes the conclusion true.

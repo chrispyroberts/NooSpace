@@ -1,4 +1,4 @@
----
+   ---
 dg-publish: true
 ---
 Let $S$ be a [[Sample Space]]. A random variable is a function of the form $X:S\rightarrow \mathbb{R}$.

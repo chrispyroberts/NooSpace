@@ -1,0 +1,1 @@
+An argument is valid if and only if its conclusion is a logical consequence of its premises.

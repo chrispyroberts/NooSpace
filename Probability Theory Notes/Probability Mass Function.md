@@ -13,3 +13,4 @@ This follows from Kolmogorov's third axiom. Since $p_{X}(y)=0$ for all $y\notin 
 $$P_{X}(B)=\sum\limits_{b\in B}p_{X}(b)$$
 We can deduce the following representation of the CDF for discrete random variables from this:
 $$F_{X}(x)=\sum\limits_{y\le x}p_X(y)$$
+In summary, the PMF of a random variable $X$ is a way to illustrate the relative frequency with which we expect to see any value of $X$ occur.

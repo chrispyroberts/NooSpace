@@ -1,0 +1,1 @@
+The conditional analogue of an argument with premises φ1,...,φn and conclusion χ is the formula ((φ1&(...&φn))→χ).

@@ -37,9 +37,10 @@ Alan Turing came up with the Halting Problem, which was mathematically equivelan
 ## Chapters
 
 1. [[Statements and Arguements]]
+2. *skipped*
+3. [[Semantics]]
+
 
 ## In-class Discussions
 
 1. [[What is a Good Arguement & What is the Stick Arguement]]
-2. [[Sentential Logic]]
-3. 
