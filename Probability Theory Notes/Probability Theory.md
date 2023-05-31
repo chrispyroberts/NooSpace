@@ -24,11 +24,6 @@ In 2012, researchers at the LHC accounced that they discovered a new particle co
 ![[file (690×554) (cern.ch)](https://cds.cern.ch/images/ATLAS-PHOTO-2018-020-3/file?size=large)
 # My Notes
 
-1.1 [[Review of Set Theory]]
-1.2 [[Probability - Basic Definitions]]
-1.3 [[Probability on Finite Sample Spaces]]
-1.4 [[Conditional Probability and Independence]]
-1.5 [[Bayes Rule and The Law of Total Probability]]
-2.1 [[Random Variables - Basic Definitions]]
-2.2 [[Discrete and Continuous Random Variables]]
-2.3 [[Moments of a Random Variable]]
+1. [[Basic Probability Theory]]
+2. [[Introduction to Random Variables]]
+3. [[Common Discrete Distributions]]

@@ -8,3 +8,4 @@ Let $\mathbb{P}$ be a [[Probability Measure]] on a sample space S. Let $A,B\subs
 4. $A\subseteq B \implies \mathbb{P}(B\backslash A) = \mathbb{P}(B)-\mathbb{P}(A)$
 5. Finite Additivity as defined earlier:
 $$\mathbb{P}\bigcup\limits_{i=1}^{n}A_i)=\sum\limits_{i=1}^{n}\mathbb{P} (A_i)$$
+

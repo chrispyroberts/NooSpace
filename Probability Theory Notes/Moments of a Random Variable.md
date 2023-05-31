@@ -26,7 +26,8 @@ Let $X, X_{1}, X_{2}$ all be discrete or continuous random variables. Let $a\in\
 2. $\mathbb{E}[a]=a$
 3. $\mathbb{E}[X_{1}+X_{2}]=\mathbb{E}[X_{1}]+\mathbb{E}[X_{2}]$
 
-Again, let $X$ be a random variable, and let $g:\mathbb{R}\rightarrow\mathbb{R}$ be a function. If the expectation $g(X)$ exists, then it can be computed as follows:
+**Theorem:** [[The Law of The Unconcious Statistician]]
+Let $X$ be a random variable, and let $g:\mathbb{R}\rightarrow\mathbb{R}$ be a function. If the expectation $g(X)$ exists, then it can be computed as follows:
 $$\mathbb{E}[g(X)]=\begin{cases} 
       \sum\limits_{x}g(x)p_{X}(x), & X \text{ is discrete} \\
       \int\limits_{-\infty}^{\infty}g(x)f_{X}(x), & X \text{ is continuous} 
@@ -57,6 +58,15 @@ Let $X$ be a [[Random Variable]] with finite second moment, and $a\in \mathbb{R}
 2. $\text{Var}[a]=0$
 3. $\text{Var}[aX]=a^2\text{Var}[X]$
 
+### 2.3.4 Chebyshev's Inequality
+
+**Theorem**: [[Chebyshev's Inequality]]
+Let $X$ be a random variable which is discrete or continuous. Suppose that $X$ has a finite second moment, and let $\mu =\mathbb{E}[X]$ and $\sigma^{2}=\text{Var}[X]$. Then, for any constant $k>0,$
+$$\mathbb{P}(|X-\mu|\ <k\sigma)=\mathbb{P}(-k\sigma<X-\mu <k\sigma)\ge 1-\frac{1}{k^2}$$
+Note that this inequality even holds for random variables whcih are neither discrete nor continuous. But one has to make sense of the expectation operator in that case, which we will not cover in this course.
+
+
+
 
 ### 2.4 Law of Total Probability for Random Variables
 
@@ -64,6 +74,5 @@ Let $X$ be a [[Random Variable]] with finite second moment, and $a\in \mathbb{R}
 Suppose $X$ is a [[Discrete Random Variable]] with support $B=\{x_{1}, ..., x_{k}\}.$ Then the events $B_{i}={X=x_{i}}, \text{ for } i=1,...,k$ form a [[Partition]] of S.
 
 ![[Drawing 2023-05-25 20.04.53.excalidraw]]
-
 This follows from the [[Law of Total Probability]]:
 $$\mathbb{P}(A)=\sum\limits_{i=1}^{k}\mathbb{P}(A|B_{i})\mathbb{P}(B_{i})=\sum\limits_{i=1}^{k}\mathbb{P}(A|X=x_{i})p_X(x_{i})$$
