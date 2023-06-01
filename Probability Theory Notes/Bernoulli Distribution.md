@@ -4,7 +4,7 @@ dg-publish: true
 A [[Random Variable]] X is said to follow a Bernoulli Distribution if its support is $\{0, 1\}$.  There must exist $p\in(0, 1)$ such that the PMF of $X$ satisfies:
 $$p_{X}(1)=p, \hspace{1cm} p_{X}(0)=1-p$$
 
-**Theorem:** [[Proporties of Bernoulli Distribution]]
+**Theorem:** [[Properties of Bernoulli Distribution]]
 Notation:  $X\sim \text{Ber}(p)$
 Support:  $\{0, 1\}$
 Parameters:  $p:\text{Sucess Probability}$

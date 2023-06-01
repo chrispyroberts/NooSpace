@@ -37,7 +37,7 @@ $$\mathbb{P}(\bigcup\limits_{i=1}^{n}A_i)=\sum\limits_{i=1}^{n}\mathbb{P} (A_i)$
 **Strategy:** [[Turn any Finite Set into an Infinite Set]]
 To turn a finite set of events into an infinite set of events, add on an infinite amount of empty sets onto the end of the finite set.
 
-**Theorem:** [[Proporties of Probability Measures]]
+**Theorem:** [[Properties of Probability Measures]]
 Let $\mathbb{P}$ be a probability measure on a sample space S. Let $A,B\subseteq S$, then the following hold:
 1. $\mathbb{P}(\emptyset) = 0$
 2. $\mathbb{P}(A^{c})=1-\mathbb{P}(A)$

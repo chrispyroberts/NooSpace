@@ -33,7 +33,7 @@ A CDF measures the probability that a random variable will fall below a given po
 Suppose that $X$ is a [[Random Variable]] with distribution $P_X$ and CDF $F_{X}$. Then, for all real numbers $a\lt b$, 
 $$P_{X}((a, b])=\mathbb{P}(a\lt X \le b)=F_{X}(b)-F_{X}(a).$$
 
-**Propositon:** [[Proporties of a CDF]]
+**Propositon:** [[Properties of a CDF]]
 Let $X$ be a random variable with CDF $F_X$. Then:
 1. $F_{X}$ is a nondecreasing function
 2. $0\le F_{X}\le 1 \text{ for all } x\in \mathbb{R}$

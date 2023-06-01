@@ -7,7 +7,7 @@ Let $Y_{1},Y_{2}, ...$ be an infinite [[Bernoulli Process]]. So $Y_{i}\sim \text
 $$X=\text{min}\{k\ge1:Y_{k}=1\}$$
 where $\text{min}\{k\ge1:Y_{k}=1\}$ is the smallest index $k$ for which the $k$-thj trial is a success. The distribution of $X$ is called a geometric distribution.
 
-**Theorem:** [[Proporties of Geometric Distribution]]
+**Theorem:** [[Properties of Geometric Distribution]]
 Notation:  $X\sim \text{Geom}(p)$
 Support:  $\{1, 2,...\}$ or $\mathbb{N}$
 Parameters:  $p:\text{ Sucess Probability}$

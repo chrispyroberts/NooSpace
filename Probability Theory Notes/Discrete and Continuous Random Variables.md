@@ -30,7 +30,7 @@ $$F_{X}(x)=\sum\limits_{y\le x}p_X(y)$$
 
 In summary, the PMF of a random variable $X$ is a way to illustrate the relative frequency with which we expect to see any value of $X$ occur.
 
-**Theorem:** [[Proporties of Probability Mass Functions]]
+**Theorem:** [[Properties of Probability Mass Functions]]
 Let $X$ be a discrete random variable with support $\chi$. Let $p_X$ be the [[Probability Mass Function]] of $X$. Then:
 1. $0\le p_{X}(x)\le 1,$ for all $x\in \mathbb{R}$
 2. $\sum\limits_{x\in \chi}p_{X}(x)=1$
@@ -55,7 +55,7 @@ where the second, third, and fourth equalities follow from the fact that $P_{X}(
 $$P_{X}(B)=\int\limits_{B}f_{X}(y)dy$$
 In summary, we will typically compute probabilities for random variables by integrating PDFs, rather than summing PMFs as we do for discrete random variables.
 
-**Theorem:** [[Fundamental Proporties of Probability Distribution Functions]]
+**Theorem:** [[Fundamental Properties of Probability Distribution Functions]]
 Let $X$ be a [[Continuous Random Variable]] with [[Probability Density Function]] $f_X$. Then,
 1. $0\le f_{X}(x)$ for all $x\in\mathbb{R}$.
 2. $\int\limits_{-\infty}^{\infty}f_{X}(x)dx=1$
@@ -66,7 +66,7 @@ Notice that PDFs do not need to be bounded above by 1, unlike PMFs.
 
 This is alot of proporties about discrete and continuous random variables. Here is a summary of them in a table:
 
-**Table:**  [[Summary of Basic Proporties of Discrete and Continuous Random Variables]]
+**Table:**  [[Summary of Basic Properties of Discrete and Continuous Random Variables]]
 
 |                                                     | Discrete                                                                                       | Continuous                                                                          |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |

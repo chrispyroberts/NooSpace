@@ -52,7 +52,7 @@ The standard deviation of a [[Random Variable]] $X$ is defined by
 $$\sigma_{X}:=\sqrt{\text{Var}[X]}$$
 where $\text{Var}[X]$ is the [[Variance]] of the random variable $X$.
 
-**Proposition:** [[Proporties of Variance]]
+**Proposition:** [[Properties of Variance]]
 Let $X$ be a [[Random Variable]] with finite second moment, and $a\in \mathbb{R}$. Then, 
 1. $\text{Var}[X+a]=\text{Var}[X]$
 2. $\text{Var}[a]=0$

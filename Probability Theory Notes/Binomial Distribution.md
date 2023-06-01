@@ -14,7 +14,7 @@ This means that $Y_{i}\sim \text{Ber}(p)$ and $Y_{1}, ..., Y_{n}$ are independen
 $$X=\sum\limits_{i=1}^{n}Y_{i}$$
 which represents the total number of successes across the $n$ trials. 
 
-**Theorem:** [[Proporties of Binomial Distribution]]
+**Theorem:** [[Properties of Binomial Distribution]]
 Notation:  $X\sim \text{Bin}(n, p)$
 Support:  $\{0, 1, ..., n\}$
 Parameters:  $n: \text{ Number of Trials,}\hspace{1cm} p:\text{ Sucess Probability}$
