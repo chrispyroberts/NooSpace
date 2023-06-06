@@ -14,3 +14,10 @@ Parameters:  $p:\text{ Sucess Probability}$
 PMF:  $p_{X}(x)= p(1-p)^{x-1}$
 Expected Value: $\mathbb{E}[X]= \frac{1}{p}$
 Variance: $\text{Var}[X]= \frac{1-p}{p^{2}}$
+
+**Theorem:** [[Memorylessness Properties of Geometric Distributions]]
+Let $X$ denote a geometric random varialbe with probability of success $p$.
+1. For a positive integer $a$:
+$$\mathbb{P}(X\gt a)=(1-p)^{a}$$
+2. For positive integers $a, b$:
+$$\mathbb{P}(X\gt a+b|X\gt a)=\mathbb{P}(X\gt b)=(1-p)^{b}$$

@@ -27,3 +27,5 @@ In 2012, researchers at the LHC accounced that they discovered a new particle co
 1. [[Basic Probability Theory]]
 2. [[Introduction to Random Variables]]
 3. [[Common Discrete Distributions]]
+4. [[Common Continuous Distributions]]
+5. More [[Common Continuous Distributions]]

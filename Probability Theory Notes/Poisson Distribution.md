@@ -8,6 +8,8 @@ Common examples of Poisson random variables:
 - Let $X$ be the number of decays from a radioactive sample per hour.
 
 In general, the Poisson distribution is used to measure the number of occurances of an event over an interval of time. There are a few conditions on these occurances:
+
+**Definition:** [[Poisson Process]]
 1. Events occur independently of each other.
 2. The rate of occurance of events is constant over the interval of time.
 3. Events cannot occur simultaneously.
